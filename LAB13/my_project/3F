@@ -1,0 +1,6 @@
+soma = 0 
+for i in rage(100,50,-10):
+    sub = n-i
+    soma += i
+    print (i)
+    print (sub)
